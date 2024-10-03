@@ -13,8 +13,10 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "En Variedades Nubia, ofrecemos una mezcla perfecta de diversión y sabor. Desde nuestra juguetería, llena de productos que alegrarán a los más pequeños, hasta nuestras deliciosas obleas y helados, tenemos algo para todos.",
-        description2: "Nos especializamos en proporcionar sonrisas y sabores únicos para todas las edades. Nuestro objetivo es que cada visita sea una experiencia memorable, ya sea que estés buscando el juguete perfecto o simplemente quieras disfrutar de un dulce capricho."
+        description1: "En Variedades Sofia, ofrecemos una mezcla perfecta de diversión y sabor. Desde nuestra juguetería, llena de productos que alegrarán a los más pequeños, hasta nuestras deliciosas obleas y helados, tenemos algo para todos.\n" +
+            "Nos especializamos en proporcionar sonrisas y sabores únicos para todas las edades. Nuestro objetivo es que cada visita sea una experiencia memorable, ya sea que estés buscando el juguete perfecto o simplemente quieras disfrutar de un dulce capricho.\n" +
+            "En Variedades Sofia, nos enorgullece ofrecer productos de alta calidad y un servicio excepcional. Nuestro equipo está dedicado a hacer que cada cliente se sienta especial y satisfecho con su compra.\n" +
+            "Ven y descubre por qué somos la elección favorita para juguetes, obleas y helados. ¡En Variedades Sofia, cada día es una celebración de sonrisas y sabores!"
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
